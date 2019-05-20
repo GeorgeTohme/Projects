@@ -1,0 +1,21 @@
+Inserted into:
+1) All type tables: (DONE)
+ -status
+ -position
+ -player_role
+ -person_type
+ -match_type
+
+2)Groups & teams: (DONE)
+-Group B Bayern Munich, PSG, Anderlecht, Celtic
+-Group C Chelsea, Atletico Madrid, Roma, Qarabag
+-Group E Spartak Moscow, Sevilla, Liverpool, Maribor
+-Group H Real Madrid, Dortmund, Tottenham, APOEL
+
+3)Matches & Team_plays_Match: (DONE)
+-All Group matches (24 x 2)
+
+4)People: (DONE)
+-All managers (16)
+-All refs (24)
+-All players (256)

@@ -1,0 +1,104 @@
+body {
+    width: auto;
+    font-size: 19px;
+    font-style: Georgia, serif;
+    color: black;
+    background-color: rgb(173, 245, 255);
+    /* background: url("images/img1.png") no-repeat center center fixed; */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* #filter {
+    background-color: palegoldenrod;
+} */
+.selectButton{
+    width: 25em;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.selectButton:hover{
+    background-color: rgb(36, 182, 196);
+    color: white;
+    padding: 30px;
+}
+
+body {
+    margin-left: 50px;
+}
+
+#right{
+    width: 70%;
+}
+
+#left{
+    width: 20%;
+    float: left;
+}
+
+#submit{
+    width: 7em;
+}
+
+textarea {
+    display: block;
+}
+
+table ,th, td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+th{
+    background-color: bisque;
+}
+
+td{
+    -webkit-transition-duration: 0.3s; /* Safari */
+    transition-duration: 0.3s;
+}
+
+td:hover{
+    background-color: rgb(36, 182, 196);
+    color: white;
+}
+
+.updateButton{
+    width: 12em;
+}
+
+#yielded{
+    color: bisque;
+}
+
+#filter {
+    width: 48%;
+    display: inline;
+    float: left;
+}
+
+#createNewStudent {
+    margin-left: 10px;
+    margin-top: 9px;
+    width: 48%;
+    display: inline;
+    float: left;
+}
+
+h1 {
+    padding: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-top: 160px;
+}
