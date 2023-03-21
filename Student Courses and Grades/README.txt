@@ -17,8 +17,8 @@ Done:
 
 Not done: 
 - update course (follows the same pattern as updating student)
-- create project/thesis  (follows same pattern as create course)
-- update project/thesis  (follows same pattern as update student)
+- create project/thesis (follows same pattern as create course)
+- update project/thesis (follows same pattern as update student)
 - json (follows same pattern as XML)
 
 Ideas:
